@@ -43,3 +43,7 @@ JSON format served by the API is:
 	]
 }
 ```
+## Features
+
+- Using python3
+- REST Api using django REST Framework
