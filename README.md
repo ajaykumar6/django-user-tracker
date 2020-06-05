@@ -51,4 +51,4 @@ JSON format served by the API is:
 ## To add Dummy data to the API
 A json file has been created under 
 django-user-tracker/mysite/fixtures/dummy_data.json 
-- To Run use command "python manage.py loaddata mysite/fixtures/dummy_data.json
+- To Run use command "python manage.py loaddata mysite/fixtures/dummy_data.json"
