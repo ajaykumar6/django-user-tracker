@@ -25,7 +25,7 @@ SECRET_KEY = 'cz#zea1pqwh-b+2%qdr41nmp3b@$x(vvrnj-eyjp7#r-1*ijd4'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['ajaydjangoassignment.herokuapp.com', 'localhost']
+ALLOWED_HOSTS = ['*', 'ajaydjangoassignment.herokuapp.com', 'localhost']
 
 
 # Application definition
